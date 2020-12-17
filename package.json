@@ -5,6 +5,6 @@
 	"unity" : "2018.4",
 	"description" : "Just a testy",
 	"dependencies" : {
-		"mmmlabs base" : "https://github.com/momo-the-monster/upm-test-base.git"
+		"mmmlabs.upm.base" : "https://github.com/momo-the-monster/upm-test-base.git"
 	}
 }
