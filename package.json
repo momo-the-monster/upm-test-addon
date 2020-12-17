@@ -1,0 +1,10 @@
+{
+	"name" : "mmmlabs.upm.addon",
+	"displayName" : "MMM Labs Add-On Test",
+	"version" : "1.0",
+	"unity" : "2018.4",
+	"description" : "Just a testy",
+	"dependencies" : {
+		"mmmlabs base" : "https://github.com/momo-the-monster/upm-test-base.git"
+	}
+}
